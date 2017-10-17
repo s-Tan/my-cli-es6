@@ -1,0 +1,16 @@
+.active{
+    width: 200px;
+    height: 200px;
+    line-height: 200px;
+    text-align: center;
+    border: 1px solid #000;
+    position: absolute;
+    top: -200px;
+    left: 50%;
+    margin-left: -25%;
+    transition: top 2s linear;
+}
+.stay{
+    top: 40%;
+    transition: top 2s linear;
+}
