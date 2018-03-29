@@ -1,7 +1,7 @@
 {
   "author": "sSTan",
   "scripts": {
-    "dev": "cross-env NODE_ENV=devcelop PLATFORM=web webpack-dev-server --host 192.168.11.88 --port 9090",
+    "dev": "cross-env NODE_ENV=devcelop PLATFORM=web webpack-dev-server --host 192.168.101.170 --port 9090",
     "build": "cross-env NODE_ENV=production PLATFORM=web webpack",
     "start": "cross-env NODE_ENV=devcelop PLATFORM=web webpack"
   },
